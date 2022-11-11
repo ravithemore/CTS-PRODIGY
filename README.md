@@ -13,3 +13,7 @@ The Vechile sensor has inbuilt pressure sensors which are cheap yet effective an
 - Google Firebase (Cloud Messaging, Realtime Database, Authentication, Storage)
 - Android Studio
 - Java, Node.js, Python3
+
+## Block Diagram
+
+![](https://github.com/ravithemore/CTS-PRODIGY/blob/main/1-244.png)
