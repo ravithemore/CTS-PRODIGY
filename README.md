@@ -1,4 +1,5 @@
-# CTS-PRODIGY
+<h1 align="center"> <B> CTS PRODIGY 📑 </B></h1> 
+
 
 ## Project Idea
 Road accidents are dreaded incidents which are known to take about 146 thousand lives in a year in India itself. Out of these, it is usually seen that about 32% all such accidents are attributable to motorcycles only and out of which 23% lose their lives. It is easy to blame the 98.6% of bikers who died didn’t wear a helmet but what about the 1.4% who did their part of trying to protect themselves from an injury? Reports suggest that these cases are primarily due to the delay in taking such casualty to a hospital. This can be avoided if the process of reporting an accident became automated. Thus, we propose this solution, where the sensor itself initiates a communication to report the accident using the person’s phone.
